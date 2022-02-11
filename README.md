@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning automatated testing
-- 👯 I’m Software Tester
+- 👯 I’m Quality Assurance
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AekachaiBoonruang&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
