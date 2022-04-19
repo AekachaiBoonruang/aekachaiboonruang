@@ -12,4 +12,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AekachaiBoonruang&show_icons=true&theme=radical&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<h3 >Connect with me:</h3>
+<p>
+  <a href="https://www.linkedin.com/in/aekachai-boonruang-b6443b1a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rogerio-e-pereira" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/Aekachai.Boonruang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rogerio-pereira" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/akeeeeee.e/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rogeriopereira.dev" height="30" width="40" /></a>
+  <a href="https://medium.com/@aekachaiboonruang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rogerio-pereira" height="30" width="40" /></a>
+</p>
 </div>
